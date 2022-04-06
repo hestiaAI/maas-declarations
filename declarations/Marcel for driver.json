@@ -1,0 +1,15 @@
+{
+  "name": "Marcel for drivers",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.marcel.cab/cgu/",
+      "executeClientScripts": true,
+      "select": "#marcel-home"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.marcel.cab/donnees-personnelles-chauffeurs/",
+      "executeClientScripts": true,
+      "select": ".content"
+    }
+  }
+}

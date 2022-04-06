@@ -1,0 +1,10 @@
+{
+  "name": "Marcel for customer",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.marcel.cab/donnees-personnelles-clients/",
+      "executeClientScripts": true,
+      "select": ".content"
+    }
+  }
+}

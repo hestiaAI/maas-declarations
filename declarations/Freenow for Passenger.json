@@ -1,0 +1,20 @@
+{
+  "name": "Freenow for Passenger",
+  "documents": {
+      "Terms of Service": {
+      "fetch": "https://free-now.com/fr/passenger-gtc/",
+      "executeClientScripts": true,
+      "select": ".content"
+    },
+    "Privacy Policy": {
+      "fetch": "https://free-now.com/fr/passenger-privacy-policy/",
+      "executeClientScripts": true,
+      "select": ".content"
+    },
+     "Commercial Terms": {
+      "fetch": "https://support.free-now.com/hc/fr/articles/360016550700-Comprendre-mes-frais-d-annulation",
+      "executeClientScripts": true,
+      "select": ".container"
+    }
+  }
+}

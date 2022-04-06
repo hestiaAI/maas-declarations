@@ -1,0 +1,20 @@
+{
+  "name": "Uber",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=france&lang=fr",
+      "executeClientScripts": true,
+      "select": ".ka"
+    },
+    "Trackers Policy": {
+      "fetch": "https://www.uber.com/legal/en/document/?name=cookie-notice&country=france&lang=fr",
+      "executeClientScripts": true,
+      "select": ".ka"
+    }, 
+    "Privacy Policy": {
+      "fetch": "https://www.uber.com/legal/en/document/?name=privacy-notice&country=france&lang=fr",
+      "executeClientScripts": true,
+      "select": ".ka"
+    }
+  }
+}
