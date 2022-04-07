@@ -9,7 +9,7 @@ You can [explore the tracked versions] (soon) interactively or [download them as
 ## Monitor changes
 You can simply monitor changes with Atom feed for a specific service (general terms of privacy policy):
 
-* for a service in  a specific app (ex: https://github.com/OpenTermsArchive/maas-versions/commits/main/Uber/Privacy%20Policy.md.atom)
+* for a specific service in an app (ex: https://github.com/OpenTermsArchive/maas-versions/commits/main/Uber/Privacy%20Policy.md.atom)
 
 * for all the Mobility services: https://github.com/OpenTermsArchive/maas-versions/commits/main.atom
 
