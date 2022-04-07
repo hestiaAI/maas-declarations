@@ -11,7 +11,7 @@ You can simply monitor changes with Atom feed for a specific service (general te
 
 * for a specific service in an app (ex: https://github.com/OpenTermsArchive/maas-versions/commits/main/Uber/Privacy%20Policy.md.atom)
 
-* for all the dating services: https://github.com/OpenTermsArchive/maas-versions/commits/main.atom
+* for all the Mobility services: https://github.com/OpenTermsArchive/maas-versions/commits/main.atom
 
 ## Scope
 
