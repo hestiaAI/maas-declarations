@@ -6,6 +6,11 @@
       "executeClientScripts": true,
       "select": "#marcel-home"
     },
+    "Imprint": {
+      "fetch": "https://www.marcel.cab/mentions-legales/",
+      "executeClientScripts": true,
+      "select": ".content"
+    },
     "Privacy Policy": {
       "fetch": "https://www.marcel.cab/donnees-personnelles-chauffeurs/",
       "executeClientScripts": true,

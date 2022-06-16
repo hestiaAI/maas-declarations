@@ -6,7 +6,7 @@
       "executeClientScripts": true,
       "select": ".s-post-content"
     },
-  "Trackers Policy": {
+    "Trackers Policy": {
       "fetch": "https://blog.blablacar.fr/about-us/cookies-policy",
       "executeClientScripts": true,
       "select": ".o-container--document"
@@ -18,6 +18,3 @@
     }
   }
 }
-
-
-

@@ -10,7 +10,7 @@
       "fetch": "https://bolt.eu/en/cookie-declaration/",
       "executeClientScripts": true,
       "select": "#cookie-declaration"
-    }, 
+    },
     "Privacy Policy": {
       "fetch": "https://bolt.eu/en/legal/privacy-for-drivers/",
       "executeClientScripts": true,
