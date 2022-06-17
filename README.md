@@ -1,3 +1,5 @@
+Note: This repository is archived, Re: https://github.com/OpenTermsArchive/france-declarations/pull/450. Thus, please refer to https://github.com/OpenTermsArchive/france-declarations/ for MAAS-related declarations.
+
 # Open Terms Archive - Mobility as a Service
 
 These services declarations are maintained by [HestiaLabs](https://hestialabs.org) and tracked on [Open Terms Archive](https://opentermsarchive.org).
