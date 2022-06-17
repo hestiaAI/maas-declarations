@@ -1,4 +1,4 @@
-Note: This repository is archived, Re: https://github.com/OpenTermsArchive/france-declarations/pull/450. Thus, please refer to https://github.com/OpenTermsArchive/france-declarations/ for MAAS-related declarations.
+> Note: This repository is archived, Re: https://github.com/OpenTermsArchive/france-declarations/pull/450. Thus, please refer to https://github.com/OpenTermsArchive/france-declarations/ for MAAS-related declarations.
 
 # Open Terms Archive - Mobility as a Service
 
